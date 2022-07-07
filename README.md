@@ -7,4 +7,4 @@ Here we are demonstrating a pull request.
 
 I'm making this change on the main branch.
 
-DB is adding to fork for funsies.
+CJ's fork changed the text
